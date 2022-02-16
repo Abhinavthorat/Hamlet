@@ -1,0 +1,2 @@
+# Hamlet
+Shakespeare Bot
